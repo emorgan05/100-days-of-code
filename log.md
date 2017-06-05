@@ -10,7 +10,8 @@ Realizing that I need to learn a lot more about user inputs and accessing that d
 Slightly overwhelmed with all I need to learn. 
 Need to slow down and figure out the individual parts. 
 
-**Link to work:** 
+**Link to work:** https://github.com/emorgan05/oreo-flavor-finder
+
 
 ### Day : 
 
