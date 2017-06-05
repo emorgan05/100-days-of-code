@@ -1,14 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 5, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Project 1: Kim's website. Spent 45 min on hold with customer service. I think the domain name is properly migrated. We'll see in 24 hours. 
+Project 2: Oreo Flavor Finder. Pencil mockup of what parts I want. Writing the HTML to create the page view to match. I think learning the CSS grid system will be a helpful approach. 
+Realizing that I need to learn a lot more about user inputs and accessing that data.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Frustrated with customer service. 
+Slightly overwhelmed with all I need to learn. 
+Need to slow down and figure out the individual parts. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+<!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -17,14 +37,5 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
+-->
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
