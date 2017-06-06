@@ -13,7 +13,7 @@ Need to slow down and figure out the individual parts.
 **Link to work:** https://github.com/emorgan05/oreo-flavor-finder
 
 
-### Day : 
+### Day 2: June 6 
 
 **Today's Progress**: Kim's website: Still not linked to the host. Checking back tomorrow. 
 AngularJS App: Part 1: Wrote the HTML to have user input and got it formatted properly. 
