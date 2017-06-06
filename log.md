@@ -15,11 +15,13 @@ Need to slow down and figure out the individual parts.
 
 ### Day : 
 
-**Today's Progress**: 
+**Today's Progress**: Kim's website: Still not linked to the host. Checking back tomorrow. 
+AngularJS App: Part 1: Wrote the HTML to have user input and got it formatted properly. 
+Part 2: I need more learning. Started CodeSchool's AngularJS tutorial. Taking notes. 
 
-**Thoughts:** 
+**Thoughts:** I like learning. 
 
-**Link to work:** 
+**Link to work:** http://campus.codeschool.com/courses/shaping-up-with-angularjs/level/1/section/3/video/1
 
 ### Day : 
 
