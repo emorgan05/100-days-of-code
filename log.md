@@ -23,6 +23,23 @@ Part 2: I need more learning. Started CodeSchool's AngularJS tutorial. Taking no
 
 **Link to work:** http://campus.codeschool.com/courses/shaping-up-with-angularjs/level/1/section/3/video/1
 
+### Day 3: June 7
+
+**Today's Progress**: Kim's website. Still not linked to the host. Have to wait full 48 hours to call customer service again. 
+AngularJS: Worked through level 1 and level 2 of CodeSchool's tutorial. Refreshed on Javascript if statements.
+
+**Thoughts:** I'm not sure this tutorial is taking me where I want to go with it. Feeling discouraged about jobs. 
+
+**Link to work:** http://campus.codeschool.com/courses/shaping-up-with-angularjs/level/2/wrap-up
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day : 
 
 **Today's Progress**: 
