@@ -32,6 +32,18 @@ AngularJS: Worked through level 1 and level 2 of CodeSchool's tutorial. Refreshe
 
 **Link to work:** http://campus.codeschool.com/courses/shaping-up-with-angularjs/level/2/wrap-up
 
+### Day 4: June 8 
+
+**Today's Progress**: Kim's website. Changed hosts. eHost doesn't migrate like I want it to. Hopefully the new service will. Waiting to see. 
+AngularJS. Finished CodeSchool tutorials. Much clearer on the different files. 
+
+**Thoughts:** Didn't fully get to what I want with the tutorial. I still need to figure out how to push data to a server that can then be called back to all users. 
+Hardest part was using the computer with my eyes dilated. I've got the blinds closed and my sunglasses on. 8 hours later. 
+
+**Link to work:** https://www.codeschool.com/account/courses/shaping-up-with-angularjs
+
+**Total time:** 1 hour 50 min. 
+
 ### Day : 
 
 **Today's Progress**: 
@@ -40,6 +52,8 @@ AngularJS: Worked through level 1 and level 2 of CodeSchool's tutorial. Refreshe
 
 **Link to work:** 
 
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
@@ -48,6 +62,7 @@ AngularJS: Worked through level 1 and level 2 of CodeSchool's tutorial. Refreshe
 
 **Link to work:** 
 
+**Total time:**
 <!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
