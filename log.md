@@ -28,7 +28,7 @@ Part 2: I need more learning. Started CodeSchool's AngularJS tutorial. Taking no
 **Today's Progress**: Kim's website. Still not linked to the host. Have to wait full 48 hours to call customer service again. 
 AngularJS: Worked through level 1 and level 2 of CodeSchool's tutorial. Refreshed on Javascript if statements.
 
-**Thoughts:** I'm not sure this tutorial is taking me where I want to go with it. Feeling discouraged about jobs. 
+**Thoughts:** I'm not sure this tutorial is taking me where I want to go with it.  
 
 **Link to work:** http://campus.codeschool.com/courses/shaping-up-with-angularjs/level/2/wrap-up
 
@@ -44,15 +44,15 @@ Hardest part was using the computer with my eyes dilated. I've got the blinds cl
 
 **Total time:** 1 hour 50 min. 
 
-### Day : 
+### Day 5: June 9 
 
-**Today's Progress**: 
+**Today's Progress**: Kim's website is ALIVE!!!
 
-**Thoughts:** 
+**Thoughts:** Ok, that's not really coding, but what's the point of coding if it doesn't go live at some point. amIright? 
 
-**Link to work:** 
+**Link to work:** www.kimmorgancummings.com
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
