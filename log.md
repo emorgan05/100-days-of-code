@@ -64,15 +64,16 @@ Hardest part was using the computer with my eyes dilated. I've got the blinds cl
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 7: June 11 
 
-**Today's Progress**: 
+**Today's Progress**: 1. Updated my personal website with Kim's new website URL and stuff. 2. Talked to customer support about the Rails authentication lesson. 3. Got to step 9 on the Rails Authentication. 4. Started FreeCodeCamp's Tribute page project.
 
-**Thoughts:** 
+**Thoughts:** I've gotten pretty ADD about what I am working on. I need a clear project that I feel like I can finish. 
+I'm frustrated with Codecademy's lesson. I want to just finish the full stack path, but that lesson is so buggy, I'm not really learning anything. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/OgNzbz
 
-**Total time:**
+**Total time:** 2 hr 20 min
 
 ### Day : 
 
