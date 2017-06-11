@@ -54,6 +54,66 @@ Hardest part was using the computer with my eyes dilated. I've got the blinds cl
 
 **Total time:** 2 hours
 
+### Day 6: June 10 
+
+**Today's Progress**: Did some things for Kim's website. Linking the MailChimp properly, pictures, payment stuff. Ran my Angular app in Plunker to see if I can get it to work. The answer: No. Started Ruby authentication to finish the Full Stack path. Course seems to be broken. Can't deal with customer service right now. 
+
+**Thoughts:** Feels like no progress.
+
+**Link to work:** www.kimmorgancummings.com
+
+**Total time:** 2 hours
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
