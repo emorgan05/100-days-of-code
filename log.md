@@ -75,15 +75,15 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 2 hr 20 min
 
-### Day : 
+### Day 8: June 12 
 
-**Today's Progress**: 
+**Today's Progress**: Finished FreeCodeCamp's Tribute page project. Backed up to their Bootstrap lessons to make sure I was using classes that would do the CSS for me. 
 
-**Thoughts:** 
+**Thoughts:** Backing up to look at Bootstrap classes was totally worth it. I didn't think I needed it, and some of their classes are out-of-date, but it pointed out a few things I can do, and then led me to look at a Bootstrap 4 cheat sheet, for the new classes that I could apply. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/OgNzbz
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
