@@ -85,15 +85,15 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 9: June 13 
 
-**Today's Progress**: 
+**Today's Progress**: Spent 55 min on Codecademy's Authentication lesson. 1 hr 50 min on FreeCodeCamp. Finished jQuery. Halfway through JavaScript. 
 
-**Thoughts:** 
+**Thoughts:** The Codecademy lesson is so buggy. It's very frustrating to try to work with. I feel like a genius flying through the FreeCodeCamp lessons. I'm not, but it's familiar. 
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.com/challenges/shopping-list
 
-**Total time:**
+**Total time:** 2 hr 45 min
 
 ### Day : 
 
