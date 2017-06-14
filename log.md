@@ -95,15 +95,15 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 2 hr 45 min
 
-### Day : 
+### Day 10: June 14 
 
-**Today's Progress**: 
+**Today's Progress**: Codecademy. Went back to the Rails portfolio project. Hit a glitch. Went to the Stories project. Trying to work through it. FreeCodeCamp, continuing JavaScript lessons.
 
-**Thoughts:** 
+**Thoughts:** I learned what JSON stands for!! 
 
-**Link to work:** 
+**Link to work:** http://www.json.org/
 
-**Total time:**
+**Total time:** 3 hours
 
 ### Day : 
 
