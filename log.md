@@ -105,15 +105,15 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 3 hours
 
-### Day : 
+### Day 11: June 15 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing JavaScript. 194 - 207 today. 
 
-**Thoughts:** 
+**Thoughts:** I still need to work on the logic of loops.
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.com/challenges/make-object-properties-private
 
-**Total time:**
+**Total time:** 1 hr 20 min
 
 ### Day : 
 
