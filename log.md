@@ -115,6 +115,66 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 1 hr 20 min
 
+### Day 12: June 16 
+
+**Today's Progress**: Finished Object Oriented Coding. Started Algorithm challenges. Up to challenge 220.
+
+**Thoughts:** Ok, need some help with algorithms. 
+
+**Link to work:** https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
+
+**Total time:** 2 hours
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
