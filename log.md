@@ -125,35 +125,35 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 13: June 17 (Sat) 
 
-**Today's Progress**: 
+**Today's Progress**: Hackbright coding challenge -- decode a string. And more FreeCodeCamp algorithms
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Hard challenges. I feel good when I finish them
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 3 hours
 
-### Day : 
+### Day 14: June 18 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: FreeCodeCamp challenges
 
-**Thoughts:** 
+**Thoughts:** I've found a method. Write the challenge in English, then pseudo code, then code.
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2.5 hours
+
+### Day 15: June 19 (Mon) 
+
+**Today's Progress**: Learn.co starting lessons. FreeCodeCamp algorithm challenges
+
+**Thoughts:** I know the stuff the Learn.co lessons are about. But refreshers are good. 
+
+**Link to work:** https://www.freecodecamp.com/challenges/chunky-monkey
+
+**Total time:** 1.5 hours
 
 ### Day : 
 
