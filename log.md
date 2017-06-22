@@ -155,6 +155,67 @@ I'm frustrated with Codecademy's lesson. I want to just finish the full stack pa
 
 **Total time:** 1.5 hours
 
+### Day 16: June 20 (Tues) 
+
+**Today's Progress**: More work on the algorithm challenges. Women who code front-end night.
+
+**Thoughts:** I'm learning a lot. I write very complicated code. At some point, I'll learn to streamline.
+
+**Link to work:** 
+
+**Total time:** 3 hours
+
+### Day 17: June 21 (Wed)
+
+**Today's Progress**: Finished the FreeCodeCamp algorithm challenges!!! So excited. At a meetup, I even helped someone with one. 
+Started the next project: Building a quote generator.
+
+**Thoughts:** Feeling satisfied. 
+
+**Link to work:** https://codepen.io/emorgan05/pen/LLLRvr
+
+**Total time:** 4 hours-ish
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
