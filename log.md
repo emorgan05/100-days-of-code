@@ -176,15 +176,15 @@ Started the next project: Building a quote generator.
 
 **Total time:** 4 hours-ish
 
-### Day : 
+### Day 18: June 22 (Thurs) 
 
-**Today's Progress**: 
+**Today's Progress**: Learned about AJAX. Wrote actual code. It doesn't work. 
 
-**Thoughts:** 
+**Thoughts:** Need to learn more. Maybe approach from a different angle. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/LLLRvr?editors=0011
 
-**Total time:**
+**Total time:** 2 hrs
 
 ### Day : 
 
