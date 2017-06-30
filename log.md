@@ -186,6 +186,136 @@ Started the next project: Building a quote generator.
 
 **Total time:** 2 hrs
 
+### Day 19: June 23 (Fri) 
+
+**Today's Progress**: FreeCodeCamp code generator
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day 20: June 24 (Sat) 
+
+**Today's Progress**: Hackbright prework
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day 21: June 25 (Sun) 
+
+**Today's Progress**: Hackbright prework
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day 22: June 26 (Mon) 
+
+**Today's Progress**: Hackbright prework
+
+**Thoughts:** I woke up in the middle of the night thinking I had made a major error in the code.
+
+**Link to work:** 
+
+**Total time:** 
+
+### Day 23: June 27 (Tues) 
+
+**Today's Progress**: Hackbright prework
+
+**Thoughts:** They expect a lot of time, especially when they aren't giving much notice
+
+**Link to work:** no links
+
+**Total time:** 1 hour
+
+### Day 24: June 28 (Wed) 
+
+**Today's Progress**: FreeCodeCamp random quote generator
+
+**Thoughts:** I am really struggling with the API part of this, so no actual progress
+
+**Link to work:** https://codepen.io/emorgan05/pen/LLLRvr?editors=0011
+
+**Total time:** 2 hours
+
+### Day 25: June 29 (Thurs) 
+
+**Today's Progress**: Learn.co. Worked through 7 lessons
+
+**Thoughts:** Worked on actually writing code this time. 
+
+**Link to work:** See github repos
+
+**Total time:** 2 hours
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
