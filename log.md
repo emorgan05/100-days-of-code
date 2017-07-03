@@ -256,45 +256,45 @@ Started the next project: Building a quote generator.
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 26: June 30 (Fri)  
 
-**Today's Progress**: 
+**Today's Progress**: Learn.co. Worked through 3 lessons
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** I'm no good at late-night coding.
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 1 hour
 
-### Day : 
+### Day 27: July 1 (Sat) 
 
-**Today's Progress**: 
+**Today's Progress**: Learn.co. Worked through 3-4 lessons. 
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Not a lot of focused time
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 1 hour
+
+### Day 28: July 2 (Sun) 
+
+**Today's Progress**: Learn.co lesson. Only 1.
+
+**Thoughts:** Struggling a lot with passing a particular lesson. Shouldn't be that hard.
+
+**Link to work:** 
+
+**Total time:** 1 hour
+
+### Day 29: July 3 (Mon) 
+
+**Today's Progress**: Learn.co. 3 lessons.
+
+**Thoughts:** I feel like the tests aren't running the way they should.
+
+**Link to work:** 
+
+**Total time:** 
 
 ### Day : 
 
