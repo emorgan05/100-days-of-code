@@ -296,15 +296,15 @@ Started the next project: Building a quote generator.
 
 **Total time:** 
 
-### Day : 
+### Day 30: July 4 (Tues)
 
-**Today's Progress**: 
+**Today's Progress**: Learn.co. 1 lesson.
 
-**Thoughts:** 
+**Thoughts:** The test was still kind of weird. 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 1 hour
 
 ### Day : 
 
