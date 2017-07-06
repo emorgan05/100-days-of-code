@@ -317,15 +317,15 @@ Started the next project: Building a quote generator.
 
 **Total time:** 3 hours
 
-### Day : 
+### Day 32: July 6 (Thurs) 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing to build the Udacity course project. 
 
-**Thoughts:** 
+**Thoughts:** The New York Times API works! Just getting started on the Wikipedia.
 
-**Link to work:** 
+**Link to work:** https://github.com/emorgan05/moving-guide/tree/Wikipedia
 
-**Total time:**
+**Total time:** 2.5 hours
 
 ### Day : 
 
