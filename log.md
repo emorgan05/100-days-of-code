@@ -306,15 +306,16 @@ Started the next project: Building a quote generator.
 
 **Total time:** 1 hour
 
-### Day : 
+### Day 31: July 5 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Learn.co for 1 hour. Asked for help with the tests. 
+  Started the Udacity course on AJAX, so I can *hopefully* finally finish my Quote Generator
 
-**Thoughts:** 
+**Thoughts:** Udacity has an irritating style. But I've got my site pulling pictures from Google Streetview! And I figured out how to change the parameters so the picture looks good. 
 
-**Link to work:** 
+**Link to work:** file:///C:/Users/Emily/Desktop/Udacity_AJAX_INIT/minicourse-ajax-project/index.html
 
-**Total time:**
+**Total time:** 3 hours
 
 ### Day : 
 
