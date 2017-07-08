@@ -327,15 +327,15 @@ Started the next project: Building a quote generator.
 
 **Total time:** 2.5 hours
 
-### Day : 
+### Day 33: July 7 (Fri) 
 
-**Today's Progress**: 
+**Today's Progress**: Mars Rover Challenge for an interview. Tracking a Mars rover with coordinates to get the final position and heading.
 
-**Thoughts:** 
+**Thoughts:** Tough, didn't get all the parts, but at least it works. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/mwGQGR
 
-**Total time:**
+**Total time:** 2.5 hours
 
 ### Day : 
 
