@@ -337,25 +337,27 @@ Started the next project: Building a quote generator.
 
 **Total time:** 2.5 hours
 
-### Day : 
+### Day 34: July 8 (Sat) 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Move API project! Feeling very accomplished.
 
-**Thoughts:** 
+**Thoughts:** Tough. 
 
-**Link to work:** 
+**Link to work:** https://github.com/emorgan05/moving-guide
 
-**Total time:**
+**Total time:** 2 hours?
 
-### Day : 
+### Day 35: July 9 (Sun)
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Random Quote Generator! Ok, the Tweet button still doesn't work. But I have make calls to the API. Took a lot of help.
+I made a random quote spinner for Dr. Robin. This was completely different because I wasn't using the API/JSON/AJAX calls. But it's pretty, so I'm happy about it. 
 
-**Thoughts:** 
+**Thoughts:** Yay! 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/LLLRvr -- with an API request
+https://codepen.io/emorgan05/pen/EXdGeP -- Dr. Robins
 
-**Total time:**
+**Total time:** Beats me... But it's now 5 pm.
 
 ### Day : 
 
