@@ -359,6 +359,76 @@ https://codepen.io/emorgan05/pen/EXdGeP -- Dr. Robins
 
 **Total time:** Beats me... But it's now 5 pm.
 
+### Day 36: July 10 (Mon) 
+
+**Today's Progress**: Got started on the next FCC project -- building a weather app. I got the HTML blocked out and called the location properly. 
+
+**Thoughts:** I have no thoughts :P Oh just one. It was easier once I had written out the steps. It kept me on track for what I needed to do.
+
+**Link to work:** https://codepen.io/emorgan05/pen/NgEYNx?editors=0010 
+
+**Total time:** 2 hours
+
+### Day 37: July 11 (Tues) 
+
+**Today's Progress**: Got the weather!! I had to figure out how to call the location outside of the location function. And then it was some work to figure out the forecast.
+
+**Thoughts:** Some hard work. But I'm really proud of myself. 
+
+**Link to work:** https://codepen.io/emorgan05/pen/NgEYNx?editors=0010
+
+**Total time:** 2 hours
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
