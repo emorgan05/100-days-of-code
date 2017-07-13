@@ -379,15 +379,15 @@ https://codepen.io/emorgan05/pen/EXdGeP -- Dr. Robins
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 38: July 12 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the weather app. Created an on paper redesign. Figured out how to round numbers. Can convert to Celsius with the click of a button, but not back. 
 
-**Thoughts:** 
+**Thoughts:** My redesign will be pretty. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/NgEYNx?editors=0100
 
-**Total time:**
+**Total time:** 2.5 hours?
 
 ### Day : 
 
