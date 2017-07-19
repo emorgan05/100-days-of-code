@@ -412,15 +412,15 @@ Started FCC project with Wikipedia
 
 **Total time:** 2 hours
 
-### Day 41: July 18 (Tues) 
+### Day 41: July 19 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Wikipedia Viewer
 
-**Thoughts:** 
+**Thoughts:** Yay! It works, and is decent looking
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/awgOdK
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
