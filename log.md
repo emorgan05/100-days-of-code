@@ -389,27 +389,30 @@ https://codepen.io/emorgan05/pen/EXdGeP -- Dr. Robins
 
 **Total time:** 2.5 hours?
 
-### Day : 
+### Day 39: July 13 (Thurs) 
 
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
+**Today's Progress**: Can convert back to Farenheit from Celsius. Worked the redesign. It's much prettier. 
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/NgEYNx?editors=0100
 
-**Total time:**
+**Total time:** 2 hours?
 
-### Day : 
+### Day 40: July 18 (Tues) 
+
+**Today's Progress**: Talked code with Tim over the weekend. Can explain my moving app website and can explain my weather app. Got tips on how to rewrite the code to make it better -- attention to detail, spaces, format stuff. 
+Showed Heather and got feedback on the design.
+Tuesday: Women who Code-- learned Foundation. Framework for responsive website like Bootstrap
+Started FCC project with Wikipedia
+
+**Thoughts:** Need to go back and revise some of my code so that it is polished. 
+
+**Link to work:** https://codepen.io/emorgan05/pen/awgOdK?editors=0100
+
+**Total time:** 2 hours
+
+### Day 41: July 18 (Tues) 
 
 **Today's Progress**: 
 
