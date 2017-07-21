@@ -422,15 +422,15 @@ Started FCC project with Wikipedia
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 42: July 20 (Thurs) 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Twitch Viewer. 
 
-**Thoughts:** 
+**Thoughts:** That was a frustrating project, because you can't actually use the API. I hope that they will change it at some point. But for now, I met the requirements. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/vZqMej
 
-**Total time:**
+**Total time:** 2.5 hours
 
 ### Day : 
 
