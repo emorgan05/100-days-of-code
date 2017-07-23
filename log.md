@@ -432,6 +432,126 @@ Started FCC project with Wikipedia
 
 **Total time:** 2.5 hours
 
+### Day 43: July 21 (Fri) 
+
+**Today's Progress**: Worked on FCC algorithms. Tough again. 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:** 3 hours
+
+### Day 43: July 22 (Sat) 
+
+**Today's Progress**: Futzed for a minute with Dying Scene. Can't get into the cpanel. Not sure why. Back to algorithms. 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:** 1 hour
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
