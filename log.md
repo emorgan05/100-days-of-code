@@ -483,15 +483,15 @@ Hauled through some algorithms.
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 47: July 26 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Tried multiple times to get the rest of the DS databases to download. And algorithms. 
 
-**Thoughts:** 
+**Thoughts:** Started having problems with FCC's website...
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
