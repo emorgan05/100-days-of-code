@@ -452,35 +452,36 @@ Started FCC project with Wikipedia
 
 **Total time:** 1 hour
 
-### Day : 
+### Day 44: July 23 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: Algorithms. 
+
+**Thoughts:** Slow going.
+
+**Link to work:** 
+
+**Total time:** 2.5 hours
+
+### Day 45: July 24 (Mon) 
+
+**Today's Progress**: Got into the DS cpanel! Small victory. Can't get the database to download. 
+Hauled through some algorithms. 
 
 **Thoughts:** 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 3 hours
 
-### Day : 
+### Day 46: July 25 (Tues) 
 
-**Today's Progress**: 
+**Today's Progress**: Got one section of the DS databases to download. Small victory. Algorithms. 
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Lots of writing. Not much coding.
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
