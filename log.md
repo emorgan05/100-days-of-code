@@ -493,35 +493,35 @@ Hauled through some algorithms.
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 48: July 27 (Thurs) 
 
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
+**Today's Progress**: DS... no dice. Algorithms. 
 
 **Thoughts:** 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 49: July 28 (Fri) 
 
-**Today's Progress**: 
+**Today's Progress**: DS ... no progress. Algorithms. 
 
-**Thoughts:** 
+**Thoughts:**  Stressed today. 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
+
+### Day 50: July 29 (Sat) 
+
+**Today's Progress**: Algorithms. Finished the section!
+
+**Thoughts:** Some feel easy. Some feel easy then have a mean trick. Some I just don't understand. 
+
+**Link to work:** 
+
+**Total time:** 2 hours
 
 ### Day : 
 
