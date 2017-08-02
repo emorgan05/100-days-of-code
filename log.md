@@ -523,25 +523,25 @@ Hauled through some algorithms.
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 51: July 30 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: Updated my personal portfolio
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Not too hard
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
+
+### Day 52: August 1 (Tues) 
+
+**Today's Progress**: Algorithm. Stuck with the telephone....
+
+**Thoughts:** I get why Todd said RegexAHHHHHHH
+
+**Link to work:** 
+
+**Total time:** 2.5 hours
 
 ### Day : 
 
