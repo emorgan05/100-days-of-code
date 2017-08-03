@@ -543,25 +543,25 @@ Hauled through some algorithms.
 
 **Total time:** 2.5 hours
 
-### Day : 
+### Day 53: August 2 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Algorithms. Finished the telephone. WWC quantum computing. 
+
+**Thoughts:** I feel like algorithms are tough, so quantum computing is pretty astronomically out of my league. 
+
+**Link to work:** 
+
+**Total time:** 3 hours
+
+### Day 54: August 3 (Thurs) 
+
+**Today's Progress**: Algorithms
 
 **Thoughts:** 
 
 **Link to work:** 
 
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
+**Total time:** 2.5 hours
 
 ### Day : 
 
