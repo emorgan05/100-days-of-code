@@ -563,6 +563,106 @@ Hauled through some algorithms.
 
 **Total time:** 2.5 hours
 
+### Day 55: August 4 (Fri) 
+
+**Today's Progress**: Cash Register Algorithm
+
+**Thoughts:** Pretty proud of my progress with it. But I'm still running over in my mind how to do finish it up. 
+
+**Link to work:** 
+
+**Total time:** 3 hours
+
+### Day 56: August 5 (Sat) 
+
+**Today's Progress**: Dying Scene local environment
+
+**Thoughts:** I have no idea how to count progress on this. I have a local site.... but it doesn't look anything like Dave's site... Maybe I need to download more stuff...
+
+**Link to work:** 
+
+**Total time:** 9 hours of FTP downloading
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
