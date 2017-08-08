@@ -583,55 +583,37 @@ Hauled through some algorithms.
 
 **Total time:** 9 hours of FTP downloading
 
-### Day : 
+### Day 57: August 6 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: DS local environment. Cash Register algorithm
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** The DS doesn't have the same theme as the live site. I am not understanding the file structure yet, so I don't see how to activate the DS theme. Which the live one has. 
+Working as long as the cash register has cash... what if it runs out?
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 58: August 7 (Mon) 
 
-**Today's Progress**: 
+**Today's Progress**: DS. Trying to understand the file structure. Dave says Metal Riot. 
+Cash register. Got it working for moving to the next slot and adding money from there. Then broke that. Then got it working if there's just a penny. Then broke that. 
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** I need a different logic approach.
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 3 hours
 
-### Day : 
+### Day 59: August 8 (Tues) 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the cash register!! Moved on through two more algorithms. 
 
-**Thoughts:** 
+**Thoughts:** Huge sigh of relief. 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
