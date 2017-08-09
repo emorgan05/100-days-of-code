@@ -615,15 +615,15 @@ Cash register. Got it working for moving to the next slot and adding money from 
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 60: August 9 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Algorithms. 
 
-**Thoughts:** 
+**Thoughts:** I'm making infinite loops that crash the browser... but not getting a warning. 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 3 hours
 
 ### Day : 
 
