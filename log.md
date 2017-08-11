@@ -625,25 +625,25 @@ Cash register. Got it working for moving to the next slot and adding money from 
 
 **Total time:** 3 hours
 
-### Day : 
+### Day 61: August 10 (Thurs) 
 
-**Today's Progress**: 
+**Today's Progress**: Restarted the permutations algorithm. To stop the browser from crashing. And completed it. 
+
+**Thoughts:** Yay
+
+**Link to work:** 
+
+**Total time:** 2 hours
+
+### Day 61: August 11 (Fri) 
+
+**Today's Progress**: Finished two algorithms. On a roll!
 
 **Thoughts:** 
 
 **Link to work:** 
 
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
