@@ -645,6 +645,27 @@ Cash register. Got it working for moving to the next slot and adding money from 
 
 **Total time:** 2 hours
 
+### Day 62: August 13 (Sun) 
+
+**Today's Progress**: Finished the algorithms section!!! 
+
+**Thoughts:** I'm really excited about this because algorithms are hard, and it's one more thing to move on from. 
+
+**Link to work:** 
+
+**Total time:** 1 hour
+
+### Day 63: August 14 (Mon) 
+
+**Today's Progress**: Working on DS. Back to downloading files. Starting the Calculator project. 
+
+**Thoughts:** I am hating downloading files and then finding that they didn't all download. No wonder it doesn't work. 
+I built a start to the calculator project. It doesn't work at all. Yay!
+
+**Link to work:** https://codepen.io/emorgan05/pen/NvaMEx?editors=0010
+
+**Total time:** 2.5 hours
+
 ### Day : 
 
 **Today's Progress**: 
@@ -654,14 +675,154 @@ Cash register. Got it working for moving to the next slot and adding money from 
 **Link to work:** 
 
 **Total time:**
-<!--
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day : 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
--->
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
 
