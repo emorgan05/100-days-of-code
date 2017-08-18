@@ -666,25 +666,25 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2.5 hours
 
-### Day : 
+### Day 64: August 15 (Tues) 
 
-**Today's Progress**: 
+**Today's Progress**: DS. Fixed the localhost, but I get the "white screen of death." Getting help didn't work yet. 
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** No thoughts. 
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
+
+### Day 65: August 16 (Wed) 
+
+**Today's Progress**: Finished the calculator!
+
+**Thoughts:** I don't think it's as pretty as Todd's, but it works. And as far as I can tell, it works well. 
+
+**Link to work:** https://codepen.io/emorgan05/pen/NvaMEx?editors=1000
+
+**Total time:** 3 hours
 
 ### Day : 
 
