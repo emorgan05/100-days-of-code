@@ -686,45 +686,45 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 3 hours
 
-### Day : 
+### Day 66: August 18 (Fri) 
 
-**Today's Progress**: 
+**Today's Progress**: Working on the Pomodoro Clock
 
-**Thoughts:** 
+**Thoughts:** My styling looks a little whack right now. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK?editors=0010
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 67: August 19 (Sat) 
 
-**Today's Progress**: 
+**Today's Progress**: Pomodoro Clock
 
-**Thoughts:** 
+**Thoughts:** Got it counting down
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK?editors=0010
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 68: August 20 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: Pomodoro Clock
 
-**Thoughts:** 
+**Thoughts:** Messed up some things, so I'm fixing it...
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK?editors=0010
 
-**Total time:**
+**Total time:** 2.5 hours
 
-### Day : 
+### Day 69: August 21 (Mon) 
 
-**Today's Progress**: 
+**Today's Progress**: Pomodoro Clock
 
-**Thoughts:** 
+**Thoughts:** Making buttons work. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK?editors=0010
 
-**Total time:**
+**Total time:** 1 hour
 
 ### Day : 
 
