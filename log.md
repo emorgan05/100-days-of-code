@@ -726,15 +726,15 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 1 hour
 
-### Day : 
+### Day 70: August 22 (Tues) 
 
-**Today's Progress**: 
+**Today's Progress**: Pomodoro Clock
 
-**Thoughts:** 
+**Thoughts:** It works! It's ugly, and I'm having a hard time moving the objects around.... but it works!
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK?editors=0100
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
