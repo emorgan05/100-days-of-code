@@ -736,15 +736,15 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 71: August 23 (Wed) 
 
-**Today's Progress**: 
+**Today's Progress**: Pomodoro Clock. Tic Tac Toe
 
-**Thoughts:** 
+**Thoughts:** It's not ugly anymore! And I added the instructions button. And I started watching videos to learn about the tic tac toe challenge. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/braeOK
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
