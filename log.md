@@ -746,35 +746,35 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 72: August 23 (Thurs) 
 
-**Today's Progress**: 
+**Today's Progress**: Tic Tac Toe
 
-**Thoughts:** 
+**Thoughts:** Primarily HTML and CSS. Getting the basic set up in place. Then adding the logic with Javascript and JQuery. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/mMKvoL?editors=0011
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 73: August 24 (Fri) 
 
-**Today's Progress**: 
+**Today's Progress**: Tic Tac Toe
 
-**Thoughts:** 
+**Thoughts:** Got the logic in place. Added the computer moves. It's a dumb version -- the computer just takes the next available space. And it has two bugs that I don't really understand -- the computer stops moving at one point, and the Play Again button to reset the board doesn't always clear it completely. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/mMKvoL?editors=0011
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 74: August 25 (Sat) 
 
-**Today's Progress**: 
+**Today's Progress**: Learning about Minimax functions to make the computer moves more complex. And less beatable. 
 
-**Thoughts:** 
+**Thoughts:** I understand. Now it's about implementing. I think I'll simplify some of the Javascript I've already got in place. 
 
-**Link to work:** 
+**Link to work:** https://codepen.io/emorgan05/pen/mMKvoL?editors=0011
 
-**Total time:**
+**Total time:** 2 hours
 
 ### Day : 
 
