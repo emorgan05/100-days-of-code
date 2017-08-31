@@ -746,7 +746,7 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day 72: August 23 (Thurs) 
+### Day 72: August 24 (Thurs) 
 
 **Today's Progress**: Tic Tac Toe
 
@@ -756,7 +756,7 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day 73: August 24 (Fri) 
+### Day 73: August 25 (Fri) 
 
 **Today's Progress**: Tic Tac Toe
 
@@ -766,7 +766,7 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day 74: August 25 (Sat) 
+### Day 74: August 26 (Sat) 
 
 **Today's Progress**: Learning about Minimax functions to make the computer moves more complex. And less beatable. 
 
@@ -776,35 +776,35 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 2 hours
 
-### Day : 
+### Day 75: August 27 (Sun) 
 
-**Today's Progress**: 
+**Today's Progress**: Work on the Tic Tac Toe
 
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
-
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Thoughts:** Really complicated. Needs more work
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
 
-### Day : 
+### Day 76: August 29 (Tues) 
 
-**Today's Progress**: 
+**Today's Progress**: Got the localhost for Dying Scene to work!! Huge step. More work on the Tic Tac Toe
 
-**Thoughts:** 
+**Thoughts:** Finally. So exciting the DS works. It's hard to know if it will be good enough with none of the databases.
 
 **Link to work:** 
 
-**Total time:**
+**Total time:** 2 hours
+
+### Day 77: August 30 (Wed) 
+
+**Today's Progress**: Learned about HTTPS to convert the Dying Scene site. 
+
+**Thoughts:** Got it shifted. I think there are other things to do so it all works properly.
+
+**Link to work:** 
+
+**Total time:** 1 hour
 
 ### Day : 
 
