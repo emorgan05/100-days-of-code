@@ -806,6 +806,76 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:** 1 hour
 
+### Day 78: August 31 (Thurs) 
+
+**Today's Progress**: Tic Tac Toe -- Javascript FCC
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:** 2 hours
+
+### Day 79: Sept 1 (Fri) 
+
+**Today's Progress**: Flatiron School
+
+**Thoughts:** Day 79 of 100 days of code is also day 1 of my bootcamp. This will give me a strong foundation not only in Ruby and Javascript, but also the other things I know to be a full-stack developer. It will solve that problem that I mentioned on the first day or two that I know there's so much I don't know, but I don't know how to learn it. I am doing the bootcamp full time, so suddenly my 2-3 hours are shifting into 8 ish. I'm excited. 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day 80: Sept 2 (Sat) 
+
+**Today's Progress**: Flatiron School
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day 81: Sept 3 (Sun) 
+
+**Today's Progress**: Flatiron School
+
+**Thoughts:** Wrapping up the Tic Tac Toe game. It's so funny that my FCC project is a javascript Tic Tac Toe, and this is a CLI Ruby Tic Tac Toe.
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Total time:**
+
 ### Day : 
 
 **Today's Progress**: 
