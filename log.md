@@ -846,53 +846,45 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Total time:**
 
-### Day : 
+### Day 82: Sept 4 
 
-**Today's Progress**: 
+**Today's Progress**: Flatiron School 
 
-**Thoughts:** 
+### Day 83: Sept 5 
 
-**Link to work:** 
+**Today's Progress**: FS
 
-**Total time:**
+### Day 84: Sept 6 
 
-### Day : 
+**Today's Progress**: FS
 
-**Today's Progress**: 
+### Day 85: Sept 7 
 
-**Thoughts:** 
+**Today's Progress**: FS
 
-**Link to work:** 
+### Day 86: Sept 8 
 
-**Total time:**
+**Today's Progress**: FS
 
-### Day : 
+### Day 87: Sept 9 
 
-**Today's Progress**: 
+**Today's Progress**: FS
 
-**Thoughts:** 
+### Day 87: Sept 10 
 
-**Link to work:** 
+**Today's Progress**: FS
 
-**Total time:**
+### Day 88: Sept 11
 
-### Day : 
+**Today's Progress**: FS
 
-**Today's Progress**: 
+### Day 89: Sept 12 
 
-**Thoughts:** 
+**Today's Progress**: FS
 
-**Link to work:** 
+### Day 90: Sept 13 
 
-**Total time:**
+**Today's Progress**: FS
 
-### Day : 
 
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
-
-**Total time:**
 
