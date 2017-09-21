@@ -886,5 +886,43 @@ I built a start to the calculator project. It doesn't work at all. Yay!
 
 **Today's Progress**: FS
 
+### Day 91: Sept 14 
 
+**Today's Progress**: FS
+
+### Day 92: Sept 15 
+
+**Today's Progress**: FS
+
+### Day 93: Sept 16 
+
+**Today's Progress**: FS
+
+### Day 94: Sept 17 
+
+**Today's Progress**: FS
+
+### Day 95: Sept 18 
+
+**Today's Progress**: FS
+
+### Day 96: Sept 19 
+
+**Today's Progress**: FS
+
+### Day 97: Sept 20 
+
+**Today's Progress**: FS
+
+### Day 98: Sept 21 
+
+**Today's Progress**: FS
+
+### Day 99: Sept 22 
+
+**Today's Progress**: FS
+
+### Day 100: Sept 23 
+
+**Today's Progress**: FS
 
